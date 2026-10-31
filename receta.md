@@ -8,3 +8,7 @@
 6. Queso azul.
 7. Nueces caramelizadas.
 8. Romero fresco.
+9. peperoni 
+10. pinia 
+11. cereza
+12. queso
