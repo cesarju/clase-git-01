@@ -1,4 +1,4 @@
-# Receta de Pizza
+# Lista de pasos para una Pizza
 
 1. Ingredientes para preparar una pizza
 2. Base de masa con carbón vegetal.
